@@ -16,6 +16,21 @@ function App() {
       </nav>
 
       {/* Products */}
+      <main>
+        <div className="products-container">
+          <div className="product">
+            <div className="product-detail">
+              <img src="https://placehold.co/100x100" alt="" />
+              <h3 className="product Name">Product Name</h3>
+            </div>
+            <div className="product-count">
+              <button>-</button>
+              <span>1</span>
+              <button>+</button>
+            </div>
+          </div>
+        </div>
+      </main>
     </div>
   );
 }
