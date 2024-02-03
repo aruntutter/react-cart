@@ -1,17 +1,3 @@
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html,
-body {
-  width: 100%;
-  height: 100%;
-}
-
 .App {
   max-width: 1200px;
   background-color: #E6E6E6;
@@ -63,6 +49,10 @@ nav {
   display: flex;
   justify-content: space-evenly;
   gap: 20px;
+}
+
+.product-count span {
+  margin-top: 7px;
 }
 
 .product-count button {
