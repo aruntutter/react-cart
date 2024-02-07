@@ -13,8 +13,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository]()
-- Live Demo: [Live Demo URL]()
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/react-cart)
+- Live Demo: [Live Demo URL](https://ornate-medovik-8c0af6.netlify.app/)
 
 ## Description
 
@@ -22,7 +22,7 @@ React-CART is a simple React application for managing quantities of products in 
 
 ## Demo
 
-You can access a live demo of React-CART [here]().
+You can access a live demo of React-CART [here](https://ornate-medovik-8c0af6.netlify.app/).
 
 ## Features
 
